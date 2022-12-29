@@ -5,3 +5,4 @@
 |[day1.py](day_01/main.py)|
 |[day2.py](day_02/main.py)|
 |[day3.py](day_03/main.py)|
+|[day4.py](day_04/main.py)|
